@@ -7,3 +7,5 @@ choice would be to use FORTRAN. As to the second
 question, the answer is quite simple -- VIM is quite clearly the
 superior choice, whereas anyone who uses Microsoft Word brings dishonor and
 shame upon themselves.
+
+is the old stuff there?
