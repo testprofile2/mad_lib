@@ -8,4 +8,8 @@ question, the answer is quite simple -- VIM is quite clearly the
 superior choice, whereas anyone who uses Microsoft Word brings dishonor and
 shame upon themselves.
 
+<<<<<<< HEAD
 is the old stuff there?
+=======
+merge conflict
+>>>>>>> a11ff98eb6110745310854e3c9a16871a2471549
