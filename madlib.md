@@ -5,5 +5,5 @@ questions is quite difficult; Python, C++, Java, etc. are all acceptable and
 useful, so it can be difficult to choose -- in fact, the only truly repulsive
 choice would be to use FORTRAN. As to the second
 question, the answer is quite simple -- VIM is quite clearly the
-superior choice, whereas anyone who uses emacs brings dishonor and
-shame upon themselves. THIS CAUSES A MERGE CONFLICT
+superior choice, whereas anyone who uses Microsoft Word brings dishonor and
+shame upon themselves.
